@@ -1,9 +1,0 @@
-torch==2.14.1
-numpy==2.4.6
-pandas
-scipy
-matplotlib
-tabulate
-datasets==5.0.1
-transformers==5.18.0
-lm-eval==0.4.13
